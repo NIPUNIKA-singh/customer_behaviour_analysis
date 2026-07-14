@@ -154,7 +154,8 @@ Built an interactive dashboard to visualize important insights and KPIs.
 
 ### Dashboard Preview:
 
-(Add your Power BI dashboard screenshot here)
+<img width="1366" height="768" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/c3804bd1-d124-4776-8738-2ff25b2fb39f" />
+
 
 ---
 
@@ -193,7 +194,7 @@ Follow these steps to reproduce the analysis:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/NIPUNIKA-singh/project-name.git
 ```
 
 ### 2. Install Required Libraries
@@ -264,10 +265,10 @@ Data-Analytics-Project/
 
 # 👤 Author
 
-**Your Name**
+**NIPUNIKA SINGH**
 
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
+- LinkedIn: https://www.linkedin.com/in/nipunika-singh-405843323/
+- GitHub: https://github.com/NIPUNIKA-singh
 
 ---
 
