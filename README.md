@@ -271,5 +271,3 @@ Data-Analytics-Project/
 - GitHub: https://github.com/NIPUNIKA-singh
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
